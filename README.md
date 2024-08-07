@@ -2,7 +2,7 @@
 
 ### The best "jack of all trades" of programming in Montréal, Canada
 
-- 🌱 I’m currently learning **Prompt Engineering*** and ***Shopify App Development**
+- 🌱 I’m currently learning **Prompt Engineering** and **Shopify App Development**
 
 - 💬 Ask me about **Node.js, CLI tools, general programming tips or dad tips**
 
